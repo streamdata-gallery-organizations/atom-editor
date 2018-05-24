@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18746-atom
 x-kinRank: "8"
 x-alexaRank: "8767"
 tags: Atom Editor
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/atom-editor/master/_listings/atom-editor/apis.md
 specificationVersion: "0.14"
 apis: []
